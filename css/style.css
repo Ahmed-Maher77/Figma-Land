@@ -22,9 +22,6 @@ body {
 ::-webkit-scrollbar-thumb {
     background-color: #4c4c4c;
 }
-.container {
-    padding: 0 25px;
-}
 /* Colors */
 .c-white {
 	color: var(--c-white) !important;
