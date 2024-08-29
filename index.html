@@ -80,7 +80,7 @@
 							<a class="nav-link fs-5" href="#contents-sec">About</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link fs-5" href="#baner-sec">Contact</a>
+							<a class="nav-link fs-5" href="#footer-sec">Contact</a>
 						</li>
 					</ul>
 					<footer class="mt-5 pt-5">
@@ -589,7 +589,8 @@
 		<!-- Bootstrap JS File -->
 		<script src="js/bootstrap.bundle.min.js"></script>
 		<script>
-			// Navbar Links
+			// Navbar Links, Close Menu when clicking on a hyperlink
+			const closeBtn = document.querySelector('.btn-close');
 			const navbarLinks = document.querySelectorAll(
 				".offcanvas-body .nav-link"
 			);
@@ -597,6 +598,7 @@
 				a.onclick = () => {
 					navbarLinks.forEach((a) => a.classList.remove("active"));
 					a.classList.add("active");
+					closeBtn.click();
 				};
 			});
 
@@ -613,6 +615,8 @@
 				}
 			}
 			changeNavBg();
+
+			
 		</script>
 	</body>
 </html>
