@@ -1,17 +1,18 @@
 # Figma-Land
-Figma Land is a responsive website emphasizing performance, accessibility, and SEO. It features a modern dark theme and provides an optimal user experience across devices. Built with HTML5, CSS3, Bootstrap, and JavaScript. this project delivers a visually appealing and user-friendly
+Figma Land is a responsive website emphasizing performance, accessibility, and SEO. It features a modern dark theme and provides an optimal user experience across devices. Built with HTML5, CSS3, Bootstrap, and JavaScript. This project delivers a visually appealing and user-friendly
 
-<br>
+<hr>
 
 💻 **Used Technologies:** <br>
 - HTML/HTML5 - CSS/CSS3 - JavaScript - Git - Bootstrap 
 - **Other Libraries / Tools:** <br>
 Boxicons - Poperjs
-<br>
+
+<hr>
 
 🌐**Demo (Live Preview):** <a href="https://ahmed-maher77.github.io/Figma-Land/" target="_blank">https://ahmed-maher77.github.io/Figma-Land/</a> 
 
-<br>
+<hr>
 
 ## ✨Key Features:
 - <b>Fully Responsive Design:</b> Ensures a seamless user experience across desktop, tablet, and mobile devices.
@@ -21,3 +22,10 @@ Boxicons - Poperjs
 - <b>High-Quality UX:</b> Prioritizing user experience with high contrast colors, clear fonts, easy navigation, and smooth interactions.
 - <b>Easy Navigation:</b> Intuitive navigation for a seamless browsing experience through the website.
 - <b>Dark Theme:</b> Offers a visually appealing dark mode that enhances user experience in low-light environments.
+
+<hr>
+
+## 👀 Website Preview:
+<a href="https://ahmed-maher77.github.io/Figma-Land/" title="demo">
+  <img src="https://github.com/user-attachments/assets/66ab39e4-05ae-4a0c-9f52-746bf0c93183" alt="website preview - UI Mockup" width="400">
+</a>
