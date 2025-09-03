@@ -27,5 +27,5 @@ Boxicons - Poperjs
 
 ## 👀 Website Preview:
 <a href="https://ahmed-maher77.github.io/Figma-Land/" title="demo">
-  <img src="https://github.com/user-attachments/assets/66ab39e4-05ae-4a0c-9f52-746bf0c93183" alt="website preview - UI Mockup" width="400">
+  <img src="https://github.com/user-attachments/assets/8d352211-4e48-4a18-87e7-881aeedd09bd" alt="website preview - UI Mockup" width="400">
 </a>
